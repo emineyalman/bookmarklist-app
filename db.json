@@ -1,0 +1,16 @@
+{
+  "bookmarks": [
+    {
+      "title": "emine yalman",
+      "url": "www.emineyalman.com",
+      "description": "Education about vue js",
+      "id": 1
+    },
+    {
+      "title": "codingwithme",
+      "url": "www.codingwithme.com",
+      "description": "channel about software education",
+      "id": 2
+    }
+  ]
+}
