@@ -1,4 +1,5 @@
-# laneti-dene
+# bookmarklist-app
+
 
 ## Project setup
 ```
